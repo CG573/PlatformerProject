@@ -1,0 +1,1 @@
+if(place_meeting(x, bbox_top, oPlayer)) hp-- else oPlayer.hp--

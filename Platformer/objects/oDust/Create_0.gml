@@ -1,0 +1,10 @@
+/// @description Variables
+image_alpha = 1;
+image_index = choose(0,1,2);
+hsp = random_range(-2,2);
+vsp = random_range(-2,2);
+image_xscale = choose(.25,-.25);
+image_yscale = choose(.25,-.25);
+rotsp = round(random_range(2,10));
+alarm[0] = random_range(30,90);
+grv = .07

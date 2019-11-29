@@ -1,0 +1,94 @@
+Converting GML script: ${project_dir}\scripts\audio_ambience_cleanup\audio_ambience_cleanup.gml
+Converted description /// @description /audio_ambience_cleanup()
+
+Converting GML script: ${project_dir}\scripts\audio_ambience_gain\audio_ambience_gain.gml
+Converted description /// @description /audio_ambience_gain(gain [0-1])/// @param gain [0-1]
+
+Converting GML script: ${project_dir}\scripts\audio_ambience_get_sound\audio_ambience_get_sound.gml
+Converted description /// @description /audio_ambience_get_sound()
+
+Converting GML script: ${project_dir}\scripts\audio_ambience_initialize\audio_ambience_initialize.gml
+Converted description /// @description /audio_ambience_initialize(gain, sounds for ambience list...)/// @param gain
+/// @param  sounds for ambience list...
+
+Converting GML script: ${project_dir}\scripts\audio_ambience_pause\audio_ambience_pause.gml
+Converted description /// @description /audio_ambience_pause()
+
+Converting GML script: ${project_dir}\scripts\audio_ambience_play\audio_ambience_play.gml
+Converted description /// @description /audio_ambience_play(sound)/// @param sound
+
+Converting GML script: ${project_dir}\scripts\audio_ambience_play_first\audio_ambience_play_first.gml
+Converted description /// @description /audio_ambience_play_first()
+
+Converting GML script: ${project_dir}\scripts\audio_ambience_play_last\audio_ambience_play_last.gml
+Converted description /// @description /audio_ambience_play_last()
+
+Converting GML script: ${project_dir}\scripts\audio_ambience_play_next\audio_ambience_play_next.gml
+Converted description /// @description /audio_ambience_play_next()
+
+Converting GML script: ${project_dir}\scripts\audio_ambience_play_previous\audio_ambience_play_previous.gml
+Converted description /// @description /audio_ambience_play_previous()
+
+Converting GML script: ${project_dir}\scripts\audio_ambience_resume\audio_ambience_resume.gml
+Converted description /// @description /audio_ambience_resume()
+
+Converting GML script: ${project_dir}\scripts\audio_ambience_stop\audio_ambience_stop.gml
+Converted description /// @description /audio_ambience_stop()
+
+Converting GML script: ${project_dir}\scripts\audio_bgm_cleanup\audio_bgm_cleanup.gml
+Converted description /// @description /audio_bgm_cleanup()
+
+Converting GML script: ${project_dir}\scripts\audio_bgm_gain\audio_bgm_gain.gml
+Converted description /// @description /audio_bgm_gain(gain [0-1])/// @param gain [0-1]
+
+Converting GML script: ${project_dir}\scripts\audio_bgm_get_sound\audio_bgm_get_sound.gml
+Converted description /// @description /audio_bgm_get_sound()
+
+Converting GML script: ${project_dir}\scripts\audio_bgm_initialize\audio_bgm_initialize.gml
+Converted description /// @description /audio_bgm_initialize(gain, sounds for bgm list...)/// @param gain
+/// @param  sounds for bgm list...
+
+Converting GML script: ${project_dir}\scripts\audio_bgm_pause\audio_bgm_pause.gml
+Converted description /// @description /audio_bgm_pause()
+
+Converting GML script: ${project_dir}\scripts\audio_bgm_play\audio_bgm_play.gml
+Converted description /// @description audio_bgm_play(sound)/// @param sound
+
+Converting GML script: ${project_dir}\scripts\audio_bgm_play_first\audio_bgm_play_first.gml
+Converted description /// @description /audio_bgm_play_first()
+
+Converting GML script: ${project_dir}\scripts\audio_bgm_play_last\audio_bgm_play_last.gml
+Converted description /// @description /audio_bgm_play_last()
+
+Converting GML script: ${project_dir}\scripts\audio_bgm_play_next\audio_bgm_play_next.gml
+Converted description /// @description /audio_bgm_play_next()
+
+Converting GML script: ${project_dir}\scripts\audio_bgm_play_previous\audio_bgm_play_previous.gml
+Converted description /// @description /audio_bgm_play_previous()
+
+Converting GML script: ${project_dir}\scripts\audio_bgm_resume\audio_bgm_resume.gml
+Converted description /// @description /audio_bgm_resume()
+
+Converting GML script: ${project_dir}\scripts\audio_bgm_stop\audio_bgm_stop.gml
+Converted description /// @description /audio_bgm_stop()
+
+Converting GML script: ${project_dir}\scripts\audio_sfx_play_ext\audio_sfx_play_ext.gml
+Converted description /// @description audio_sfx_play_ext(sound, priority, stop sound if playing, fixed pitch shift in semi-tones, random pitch shift in semitones)/// @param sound
+/// @param  priority
+/// @param  stop sound if playing
+/// @param  fixed pitch shift in semi-tones
+/// @param  random pitch shift in semitones
+
+Converting GML script: ${project_dir}\scripts\audio_sfx_play\audio_sfx_play.gml
+Converted description /// @description audio_sfx_play(sound, priority, optional[random pitch shift in semitones])/// @param sound
+/// @param  priority
+/// @param  optional[random pitch shift in semitones]
+
+Converting GML script: ${project_dir}\scripts\audio_sfx_gain\audio_sfx_gain.gml
+Converted description /// @description /audio_sfx_gain(gain [0-1])/// @param gain [0-1]
+
+Converting GML script: ${project_dir}\scripts\gain_scale\gain_scale.gml
+Converted description /// @description /gain_scale(linear gain)/// @param linear gain
+
+Converting GML script: ${project_dir}\scripts\audio_master_gain_scaled\audio_master_gain_scaled.gml
+Converted description /// @description /audio_master_gain_scaled(gain [0-1])/// @param gain [0-1]
