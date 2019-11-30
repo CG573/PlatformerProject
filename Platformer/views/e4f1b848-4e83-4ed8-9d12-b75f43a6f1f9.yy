@@ -19,7 +19,8 @@
         "69f1a792-aa5c-41fe-8ebd-a05b0df37368",
         "9ba158d0-e642-4944-9a3c-7ad2f76a8c50",
         "d4e596df-f671-45e8-9540-55a86eef62ff",
-        "7b5d0f6f-7c97-45bf-a7e0-52eb9e139aaa"
+        "7b5d0f6f-7c97-45bf-a7e0-52eb9e139aaa",
+        "809f0272-d07a-474f-8243-4c707e824379"
     ],
     "filterType": "GMObject",
     "folderName": "Inanimate",
