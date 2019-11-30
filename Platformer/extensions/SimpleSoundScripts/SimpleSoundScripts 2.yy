@@ -1,0 +1,92 @@
+{
+    "id": "65fa8171-ddbc-43c0-91cd-1c062e05c3aa",
+    "modelName": "GMExtension",
+    "mvc": "1.2",
+    "name": "SimpleSoundScripts",
+    "IncludedResources": [
+        "Included Files\\SimpleSoundDemo.gmz",
+        "Scripts\\Simple Sound Scripts\\Ambience\\audio_ambience_cleanup",
+        "Scripts\\Simple Sound Scripts\\Ambience\\audio_ambience_gain",
+        "Scripts\\Simple Sound Scripts\\Ambience\\audio_ambience_get_sound",
+        "Scripts\\Simple Sound Scripts\\Ambience\\audio_ambience_initialize",
+        "Scripts\\Simple Sound Scripts\\Ambience\\audio_ambience_pause",
+        "Scripts\\Simple Sound Scripts\\Ambience\\audio_ambience_play",
+        "Scripts\\Simple Sound Scripts\\Ambience\\audio_ambience_play_first",
+        "Scripts\\Simple Sound Scripts\\Ambience\\audio_ambience_play_last",
+        "Scripts\\Simple Sound Scripts\\Ambience\\audio_ambience_play_next",
+        "Scripts\\Simple Sound Scripts\\Ambience\\audio_ambience_play_previous",
+        "Scripts\\Simple Sound Scripts\\Ambience\\audio_ambience_resume",
+        "Scripts\\Simple Sound Scripts\\Ambience\\audio_ambience_stop",
+        "Scripts\\Simple Sound Scripts\\BGM\\audio_bgm_cleanup",
+        "Scripts\\Simple Sound Scripts\\BGM\\audio_bgm_gain",
+        "Scripts\\Simple Sound Scripts\\BGM\\audio_bgm_get_sound",
+        "Scripts\\Simple Sound Scripts\\BGM\\audio_bgm_initialize",
+        "Scripts\\Simple Sound Scripts\\BGM\\audio_bgm_pause",
+        "Scripts\\Simple Sound Scripts\\BGM\\audio_bgm_play",
+        "Scripts\\Simple Sound Scripts\\BGM\\audio_bgm_play_first",
+        "Scripts\\Simple Sound Scripts\\BGM\\audio_bgm_play_last",
+        "Scripts\\Simple Sound Scripts\\BGM\\audio_bgm_play_next",
+        "Scripts\\Simple Sound Scripts\\BGM\\audio_bgm_play_previous",
+        "Scripts\\Simple Sound Scripts\\BGM\\audio_bgm_resume",
+        "Scripts\\Simple Sound Scripts\\BGM\\audio_bgm_stop",
+        "Scripts\\Simple Sound Scripts\\SFX\\audio_sfx_play_ext",
+        "Scripts\\Simple Sound Scripts\\SFX\\audio_sfx_play",
+        "Scripts\\Simple Sound Scripts\\SFX\\audio_sfx_gain",
+        "Scripts\\Simple Sound Scripts\\gain_scale",
+        "Scripts\\Simple Sound Scripts\\audio_master_gain_scaled"
+    ],
+    "androidPermissions": [
+        
+    ],
+    "androidProps": false,
+    "androidactivityinject": "",
+    "androidclassname": "",
+    "androidinject": "",
+    "androidmanifestinject": "",
+    "androidsourcedir": "",
+    "author": "",
+    "classname": "",
+    "copyToTargets": -1,
+    "date": "2019-32-24 04:11:31",
+    "description": "",
+    "exportToGame": true,
+    "extensionName": "",
+    "files": [
+        
+    ],
+    "gradleinject": "",
+    "helpfile": "",
+    "installdir": "",
+    "iosProps": false,
+    "iosSystemFrameworkEntries": [
+        
+    ],
+    "iosThirdPartyFrameworkEntries": [
+        
+    ],
+    "iosdelegatename": "",
+    "iosplistinject": "",
+    "license": "Free to use, also for commercial games.",
+    "maccompilerflags": "",
+    "maclinkerflags": "",
+    "macsourcedir": "",
+    "options": null,
+    "optionsFile": "options.json",
+    "packageID": "com.thewzzard.simplesoundscripts",
+    "productID": "ACBD3CFF4E539AD869A0E8E3B4B022DD",
+    "sourcedir": "",
+    "supportedTargets": -1,
+    "tvosProps": false,
+    "tvosSystemFrameworkEntries": [
+        
+    ],
+    "tvosThirdPartyFrameworkEntries": [
+        
+    ],
+    "tvosclassname": "",
+    "tvosdelegatename": "",
+    "tvosmaccompilerflags": "",
+    "tvosmaclinkerflags": "",
+    "tvosplistinject": "",
+    "version": "1.0.2"
+}
