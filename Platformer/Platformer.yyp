@@ -623,6 +623,14 @@
             }
         },
         {
+            "Key": "809f0272-d07a-474f-8243-4c707e824379",
+            "Value": {
+                "id": "ba791f20-be03-442a-bff5-6854354afe61",
+                "resourcePath": "objects\\oPause\\oPause.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "80c03866-0cfd-40e5-b251-44605e87e79d",
             "Value": {
                 "id": "5e5a1f3b-44ac-4e12-9ba5-1afeaa6c4a06",
