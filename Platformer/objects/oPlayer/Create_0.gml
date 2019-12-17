@@ -20,7 +20,7 @@ old_vsp = vsp;
 
 airtime = 0;
 
-grv = 0.12;
+grv = .069;
 
 dashtimer = 0;
 

@@ -57,6 +57,15 @@ if (oPlayer.image_index >= 3 and (oPlayer.image_index < 3.15)) and (oPlayer.spri
 //Main Menu
 if(room == rmMenu) && (!audio_is_playing(musMenu)){
 	audio_play_sound(musMenu, 10, true);
+}else if (room != rmMenu) && (audio_is_playing(musMenu)){
+	audio_stop_sound(musMenu);
+}
+
+//Credits
+if(room == rmCredits) && (!audio_is_playing(musCredits)){
+	audio_play_sound(musCredits, 10, true);
+}else if (room != rmCredits) && (audio_is_playing(musCredits)){
+	audio_stop_sound(musCredits);
 }
 
 #endregion
