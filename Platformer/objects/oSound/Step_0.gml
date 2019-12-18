@@ -68,4 +68,11 @@ if(room == rmCredits) && (!audio_is_playing(musCredits)){
 	audio_stop_sound(musCredits);
 }
 
+//Level 1-1
+if(room == rm1dash1) && (!audio_is_playing(musLvl1dash1)){
+	audio_play_sound(musLvl1dash1, 10, true)
+} else if (room != rm1dash1) && (audio_is_playing(musLvl1dash1)){
+	audio_stop_sound(musLvl1dash1);
+}
+
 #endregion

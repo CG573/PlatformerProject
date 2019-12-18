@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "2c2b748e-5bac-4758-a9db-6f7c3f1081f3",
+            "Value": {
+                "id": "1e672d2d-c4bc-406c-ae9a-4559cd15d87f",
+                "resourcePath": "sounds\\musLvl1dash1\\musLvl1dash1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2ecc5d3f-142a-459c-9e18-622a42bdd203",
             "Value": {
                 "id": "c7bac778-a54c-40ed-82ff-3e7d9f9bc572",
