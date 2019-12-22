@@ -9,8 +9,10 @@ if(roomStartCam>0){ roomStartCam--; oCamera.follow = oExit; hascontrol = false;
 
 //Update Destination
 if(instance_exists(follow)){
-		xTo=follow.x;
 		yTo=follow.y;
+		if(follow = oPlayer){
+			xTo = follow.x + sign(follow.hsp)*70;
+		}else xTo = follow.x
 }
 
 

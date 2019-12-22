@@ -1,3 +1,5 @@
+///@description play all the sounds
+
 #region //Variables
 
 sfxvol = max(0,sfxvol);
@@ -24,12 +26,11 @@ audio_group_set_gain(audiogroup_jingles,jnglvol,1);
 
 
 //Player Walk (step)
-/// @description Footsteps
 steptype = choose(sndStep00,sndStep01,sndStep02);
 audio_sound_gain(steptype,random_range(.8,1.2),1);
 if (oPlayer.image_index >= 0 and (oPlayer.image_index < .15)) and (oPlayer.sprite_index == sPlayerR){ 
 	steptype = choose(sndStep00,sndStep01,sndStep02);
-	audio_sound_gain(steptype, oSound.sfxvol*choose(0.8,1,1.2), 1);
+	audio_sound_gain(steptype, oSound.sfxvol*choose(0.08,0.1,1.12), 1);
 	audio_sound_pitch(steptype, choose(0.8,1,1.2));
 	audio_play_sound(steptype, 1, false);
 }
