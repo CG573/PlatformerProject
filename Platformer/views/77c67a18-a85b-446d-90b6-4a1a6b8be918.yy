@@ -8,7 +8,7 @@
         "c8a5e24f-a275-43a7-9654-bf186e5384eb"
     ],
     "filterType": "GMObject",
-    "folderName": "Alive",
+    "folderName": "Entities (formerly \"Alive\")",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

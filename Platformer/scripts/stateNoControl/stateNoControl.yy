@@ -1,8 +1,8 @@
 {
-    "id": "6ff6ee22-a177-4c7f-827e-af58f91f0696",
+    "id": "46de294a-5856-492a-ac8f-6e91807d8647",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "plrDie",
+    "name": "stateNoControl",
     "IsCompatibility": false,
     "IsDnD": false
 }
