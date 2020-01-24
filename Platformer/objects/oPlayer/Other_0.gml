@@ -1,1 +1,1 @@
-if(room != rmMenu)plrDie();
+if(room != rmMenu)stateDie();

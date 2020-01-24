@@ -1,1 +1,1 @@
-plrDie();
+stateDie();
